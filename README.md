@@ -1,2 +1,2 @@
-# Projek_UAS_PBO
-Projek UAS PBO 3 Pilar Pemrograman Java
+# Animal
+Source Code Program Java penggabungan 3 Pilar Pemrograman Java (Inheritence, Encapsulation, &amp; Polimorfise)
